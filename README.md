@@ -56,8 +56,4 @@ To set up and run this project locally, follow these steps:
     Then open `varun-shell-edunet.ipynb`.
 3.  **Run the Notebook:** Execute all cells in the notebook sequentially to reproduce the data preprocessing, analysis, model training, evaluation, and saving of the model and scaler.
 
-## Results
-
-The comparative analysis of the models showed that the Linear Regression model achieved the highest performance in predicting the `Supply Chain Emission Factors with Margins`, with an R² score of approximately **0.999999** and a very low RMSE of **0.000281**. The hyperparameter-tuned Random Forest model also performed exceptionally well, demonstrating the effectiveness of the chosen features and methodology.
-
 ---
